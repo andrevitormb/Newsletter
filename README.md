@@ -1,6 +1,6 @@
 
 ## Resumo
-👩‍💻 I made this project to train single page.
+👩‍💻 I made this project to train newsletter.
 
 🧠 I thought of creating a page publicize work on creating office
 environments 
