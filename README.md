@@ -1,3 +1,11 @@
-# Rocketseat_project_1
-First project by explorer rocketseat and this project I learned about figma, html and css. 
-There is another way for open this project and your code from codePen https://codepen.io/andrevitormb/pen/eYMWoMP
+
+## Resumo
+👩‍💻 I made this project to train single page.
+
+🧠 I thought of creating a page publicize work on creating office
+environments 
+
+📫 did you like it ? contact me via Linkedin 
+https://pt.linkedin.com/in/andre-macedo-a99b02243
+
+
